@@ -1,0 +1,44 @@
+nav{
+    opacity: 0.8;
+}
+
+footer{
+    opacity: 0.8;
+}
+label{
+    color: rgb(255, 255, 255);
+    font-size:18px;
+}
+
+#about{
+    border-bottom:3px solid rgb(201, 52, 52);
+}
+
+#home{
+    border-bottom:3px solid rgb(201, 52, 52);
+}
+
+#last_cont{
+    margin: 20px;
+    margin-bottom: 50px;
+    padding: 8px;
+}
+
+ul{
+    text-align: left;
+    color: rgb(255, 255, 255);
+    list-style-type: disc;
+    font-size: 20px;
+    margin-left: 1.5cm;
+    display: list-item;
+}
+
+a{
+    color: aqua;
+}
+
+#footer_spacer{
+    margin: 221.5px;
+}
+
+
